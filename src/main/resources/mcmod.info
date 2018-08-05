@@ -1,16 +1,15 @@
 [
 {
-  "modid": "examplemod",
-  "name": "Example Mod",
-  "description": "Example placeholder mod.",
-  "version": "${version}",
+  "modid": "morefuelsmodlight",
+  "name": "\u00a73More Fuels Mod Light",
+  "description": "\u00A7b\u00A7oThe Premiere Mod that makes more items usable as fuels. \u00a7lNow Officially Updated to Minecraft 1.12",
+  "version": "1.0.0",
   "mcversion": "${mcversion}",
   "url": "",
   "updateUrl": "",
-  "authorList": ["ExampleDude"],
-  "credits": "The Forge and FML guys, for making this example",
-  "logoFile": "",
+  "authorList": ["\u00a73B\u00a7bo\u00a73r\u00a7be\u00a73d"],
+  "logoFile": "mfml-logo.png",
   "screenshots": [],
-  "dependencies": []
+  "dependencies": ["mod_Forge"]
 }
 ]
