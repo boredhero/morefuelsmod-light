@@ -1,0 +1,43 @@
+This mapping 'snapshot_20161220' was designed for MC 1.11! Use at your own peril.This mapping 'snapshot_20161220' was designed for MC 1.11! Use at your own peril.
+
+#################################################
+         ForgeGradle 2.2-SNAPSHOT-9bc34b4        
+  https://github.com/MinecraftForge/ForgeGradle  
+#################################################
+               Powered by MCP unknown               
+             http://modcoderpack.com             
+         by: Searge, ProfMobius, Fesh0r,         
+         R4wk, ZeuX, IngisKahn, bspkrs           
+#################################################
+:deobfCompileDummyTask
+:deobfProvidedDummyTask
+:eclipseClasspath
+Download https://libraries.minecraft.net/com/mojang/netty/1.6/netty-1.6-sources.jar
+Download https://repo1.maven.org/maven2/net/java/dev/jna/jna/3.4.0/jna-3.4.0-sources.jar
+Download https://repo1.maven.org/maven2/net/sf/jopt-simple/jopt-simple/4.6/jopt-simple-4.6-sources.jar
+Download https://repo1.maven.org/maven2/io/netty/netty-all/4.0.23.Final/netty-all-4.0.23.Final-sources.jar
+Download https://repo1.maven.org/maven2/com/google/guava/guava/17.0/guava-17.0-sources.jar
+Download https://repo1.maven.org/maven2/org/apache/commons/commons-lang3/3.3.2/commons-lang3-3.3.2-sources.jar
+Download https://repo1.maven.org/maven2/commons-io/commons-io/2.4/commons-io-2.4-sources.jar
+Download https://repo1.maven.org/maven2/commons-codec/commons-codec/1.9/commons-codec-1.9-sources.jar
+Download https://repo1.maven.org/maven2/com/google/code/gson/gson/2.2.4/gson-2.2.4-sources.jar
+Download https://libraries.minecraft.net/com/mojang/authlib/1.5.24/authlib-1.5.24-sources.jar
+Download https://libraries.minecraft.net/it/unimi/dsi/fastutil/7.0.12_mojang/fastutil-7.0.12_mojang-sources.jar
+Download https://repo1.maven.org/maven2/org/apache/logging/log4j/log4j-api/2.0-beta9/log4j-api-2.0-beta9-sources.jar
+Download https://repo1.maven.org/maven2/org/apache/logging/log4j/log4j-core/2.0-beta9/log4j-core-2.0-beta9-sources.jar
+Download https://repo1.maven.org/maven2/org/ow2/asm/asm-debug-all/5.0.3/asm-debug-all-5.0.3-sources.jar
+:eclipseJdt
+:eclipseProject
+:getVersionJson
+:extractNatives SKIPPED
+:extractUserdev UP-TO-DATE
+:getAssetIndex UP-TO-DATE
+:getAssets
+:makeStart
+:makeEclipseCleanRunClient
+:makeEclipseCleanRunServer
+:eclipse
+
+BUILD SUCCESSFUL
+
+Total time: 19.813 secs
