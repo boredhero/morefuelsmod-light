@@ -1,0 +1,224 @@
+Symbol range map extraction starting
+Processing 74 files
+startProcessing "com\bored\morefuelsmodlight\MoreFuelsMod.java" md5: 438538aa4b8f2259ec6f90e339418039
+endProcessing "com\bored\morefuelsmodlight\MoreFuelsMod.java"
+
+startProcessing "com\bored\morefuelsmodlight\fuels\ActivatorRail.java" md5: e7a276ff32c3fedf89e8562f91badb94
+endProcessing "com\bored\morefuelsmodlight\fuels\ActivatorRail.java"
+
+startProcessing "com\bored\morefuelsmodlight\fuels\ArmorStand.java" md5: aea5653b1a0c3a059523c3e8bf892407
+endProcessing "com\bored\morefuelsmodlight\fuels\ArmorStand.java"
+
+startProcessing "com\bored\morefuelsmodlight\fuels\Arrow.java" md5: b3b94d33d36130b652630ac75e0a1e7d
+endProcessing "com\bored\morefuelsmodlight\fuels\Arrow.java"
+
+startProcessing "com\bored\morefuelsmodlight\fuels\Bed.java" md5: b188164f2fb238b9a0f7f395e3534883
+endProcessing "com\bored\morefuelsmodlight\fuels\Bed.java"
+
+startProcessing "com\bored\morefuelsmodlight\fuels\BeetSeeds.java" md5: 45c2ff34c23229bf4fc54e773cc6efdb
+endProcessing "com\bored\morefuelsmodlight\fuels\BeetSeeds.java"
+
+startProcessing "com\bored\morefuelsmodlight\fuels\BlazePowder.java" md5: 4652ab0f8097e00f4ec3c6ff6108ca97
+endProcessing "com\bored\morefuelsmodlight\fuels\BlazePowder.java"
+
+startProcessing "com\bored\morefuelsmodlight\fuels\Book.java" md5: e6a430a420fbea498d82fa00939a7384
+endProcessing "com\bored\morefuelsmodlight\fuels\Book.java"
+
+startProcessing "com\bored\morefuelsmodlight\fuels\Bowl.java" md5: d9867900e341d621a6602f0c625edd66
+endProcessing "com\bored\morefuelsmodlight\fuels\Bowl.java"
+
+startProcessing "com\bored\morefuelsmodlight\fuels\Cactus.java" md5: d869a1e17b0763fe0b187f7080807c34
+endProcessing "com\bored\morefuelsmodlight\fuels\Cactus.java"
+
+startProcessing "com\bored\morefuelsmodlight\fuels\Carpet.java" md5: d835f0f308ab2f28c74f89d0c9bca006
+endProcessing "com\bored\morefuelsmodlight\fuels\Carpet.java"
+
+startProcessing "com\bored\morefuelsmodlight\fuels\CarrotOnAStick.java" md5: 74e185622b4f18bc24f5fbb64eae150c
+endProcessing "com\bored\morefuelsmodlight\fuels\CarrotOnAStick.java"
+
+startProcessing "com\bored\morefuelsmodlight\fuels\ChorusFlowers.java" md5: d45dec601b670282199cad56491ef2be
+endProcessing "com\bored\morefuelsmodlight\fuels\ChorusFlowers.java"
+
+startProcessing "com\bored\morefuelsmodlight\fuels\ChorusPlant.java" md5: c56e16e17c339ff50054df7808e60f18
+endProcessing "com\bored\morefuelsmodlight\fuels\ChorusPlant.java"
+
+startProcessing "com\bored\morefuelsmodlight\fuels\Deadbush.java" md5: b8e6b67ff20f13dc9ed2bb220f73e2c0
+endProcessing "com\bored\morefuelsmodlight\fuels\Deadbush.java"
+
+startProcessing "com\bored\morefuelsmodlight\fuels\DetectorRail.java" md5: 4a0d19ad6a6019d558242f0006d9016d
+endProcessing "com\bored\morefuelsmodlight\fuels\DetectorRail.java"
+
+startProcessing "com\bored\morefuelsmodlight\fuels\Doors.java" md5: 00311def6016aa8aa64d230f3d3c68ad
+endProcessing "com\bored\morefuelsmodlight\fuels\Doors.java"
+
+startProcessing "com\bored\morefuelsmodlight\fuels\DoublePlant.java" md5: 4b0da0eccb83c10cb83b79a0bbe5de74
+endProcessing "com\bored\morefuelsmodlight\fuels\DoublePlant.java"
+
+startProcessing "com\bored\morefuelsmodlight\fuels\DragonBreath.java" md5: 384b7d0771b3f0cad4fa6301438f674d
+endProcessing "com\bored\morefuelsmodlight\fuels\DragonBreath.java"
+
+startProcessing "com\bored\morefuelsmodlight\fuels\ExperimentalMushroomBlocks.java" md5: 9cdcb97f3cc3877e90c239adea8d7dd7
+endProcessing "com\bored\morefuelsmodlight\fuels\ExperimentalMushroomBlocks.java"
+
+startProcessing "com\bored\morefuelsmodlight\fuels\ExperimentalPotions.java" md5: 4b0393eab69fec3429b5c01c3dd28d5d
+endProcessing "com\bored\morefuelsmodlight\fuels\ExperimentalPotions.java"
+
+startProcessing "com\bored\morefuelsmodlight\fuels\Feather.java" md5: 45b19802dbb252d5f187f5ccdf770dff
+endProcessing "com\bored\morefuelsmodlight\fuels\Feather.java"
+
+startProcessing "com\bored\morefuelsmodlight\fuels\FermentedSpiderEye.java" md5: 0682a67786cdef3439fba09320da4ea2
+endProcessing "com\bored\morefuelsmodlight\fuels\FermentedSpiderEye.java"
+
+startProcessing "com\bored\morefuelsmodlight\fuels\FireCharge.java" md5: 60d390936b5687c5aba594ed78c28f74
+endProcessing "com\bored\morefuelsmodlight\fuels\FireCharge.java"
+
+startProcessing "com\bored\morefuelsmodlight\fuels\FireworkCharge.java" md5: 1bf47949dbef882938ba3483bfcc3cef
+endProcessing "com\bored\morefuelsmodlight\fuels\FireworkCharge.java"
+
+startProcessing "com\bored\morefuelsmodlight\fuels\Fireworks.java" md5: 05e8da88b5a035123f1e18a1b81ae8a0
+endProcessing "com\bored\morefuelsmodlight\fuels\Fireworks.java"
+
+startProcessing "com\bored\morefuelsmodlight\fuels\FishingRod.java" md5: c20207831e562628ff061ff76783f781
+endProcessing "com\bored\morefuelsmodlight\fuels\FishingRod.java"
+
+startProcessing "com\bored\morefuelsmodlight\fuels\GhastTear.java" md5: f9d73001def8dd0fa49238359e40ac7f
+endProcessing "com\bored\morefuelsmodlight\fuels\GhastTear.java"
+
+startProcessing "com\bored\morefuelsmodlight\fuels\Gunpowder.java" md5: 332bba9a13c896c1969646402c292771
+endProcessing "com\bored\morefuelsmodlight\fuels\Gunpowder.java"
+
+startProcessing "com\bored\morefuelsmodlight\fuels\HayBlock.java" md5: 0822716873ffc4618f1f100d9332e877
+endProcessing "com\bored\morefuelsmodlight\fuels\HayBlock.java"
+
+startProcessing "com\bored\morefuelsmodlight\fuels\ItemFrame.java" md5: 14125c2be11db7b6f1b37b5fd28a3def
+endProcessing "com\bored\morefuelsmodlight\fuels\ItemFrame.java"
+
+startProcessing "com\bored\morefuelsmodlight\fuels\Ladder.java" md5: 6a64f50fef0bcf6de1120818478d3f1c
+endProcessing "com\bored\morefuelsmodlight\fuels\Ladder.java"
+
+startProcessing "com\bored\morefuelsmodlight\fuels\Leather.java" md5: 02f5f259850c2c1fe8bd25811394dc37
+endProcessing "com\bored\morefuelsmodlight\fuels\Leather.java"
+
+startProcessing "com\bored\morefuelsmodlight\fuels\LeatherArmor.java" md5: 0ca53ccb5280a3a2330b6b6a7e9f86a4
+endProcessing "com\bored\morefuelsmodlight\fuels\LeatherArmor.java"
+
+startProcessing "com\bored\morefuelsmodlight\fuels\Leaves.java" md5: 5a1b6d8ec62936e9238530925a96c3d6
+endProcessing "com\bored\morefuelsmodlight\fuels\Leaves.java"
+
+startProcessing "com\bored\morefuelsmodlight\fuels\Lever.java" md5: 8688b778624674dd3de8c1248699e181
+endProcessing "com\bored\morefuelsmodlight\fuels\Lever.java"
+
+startProcessing "com\bored\morefuelsmodlight\fuels\MagmaCream.java" md5: 3715c3f8ab559c36b8e00be4f4d201cd
+endProcessing "com\bored\morefuelsmodlight\fuels\MagmaCream.java"
+
+startProcessing "com\bored\morefuelsmodlight\fuels\Maps.java" md5: 0f358b3e0289507570b284a86c4dcd35
+endProcessing "com\bored\morefuelsmodlight\fuels\Maps.java"
+
+startProcessing "com\bored\morefuelsmodlight\fuels\MelonSeeds.java" md5: b66611964db0381d89d78b20e1847678
+endProcessing "com\bored\morefuelsmodlight\fuels\MelonSeeds.java"
+
+startProcessing "com\bored\morefuelsmodlight\fuels\MinecartWithChest.java" md5: b576208b2a7ff02207aad4a0649bae95
+endProcessing "com\bored\morefuelsmodlight\fuels\MinecartWithChest.java"
+
+startProcessing "com\bored\morefuelsmodlight\fuels\MushroomItems.java" md5: 330a1ea1a2605b02cc332ab837d8dcef
+endProcessing "com\bored\morefuelsmodlight\fuels\MushroomItems.java"
+
+startProcessing "com\bored\morefuelsmodlight\fuels\NetherStar.java" md5: 4610cd0fe75e698fe714ba23879ff76a
+endProcessing "com\bored\morefuelsmodlight\fuels\NetherStar.java"
+
+startProcessing "com\bored\morefuelsmodlight\fuels\Painting.java" md5: 4b3b3218d8d4030f277cd5c4b327af1d
+endProcessing "com\bored\morefuelsmodlight\fuels\Painting.java"
+
+startProcessing "com\bored\morefuelsmodlight\fuels\Paper.java" md5: fd8e25e98aeb8c26d29d2fd21dd85153
+endProcessing "com\bored\morefuelsmodlight\fuels\Paper.java"
+
+startProcessing "com\bored\morefuelsmodlight\fuels\Piston.java" md5: 63d073f19c68bb1c1346d17d749ebbd7
+endProcessing "com\bored\morefuelsmodlight\fuels\Piston.java"
+
+startProcessing "com\bored\morefuelsmodlight\fuels\PoisonousPotato.java" md5: 7614e0c7fb468e5d14191cd517df421d
+endProcessing "com\bored\morefuelsmodlight\fuels\PoisonousPotato.java"
+
+startProcessing "com\bored\morefuelsmodlight\fuels\PoweredRail.java" md5: 7b8ca81f479cfbdc8ad34775bfd72c86
+endProcessing "com\bored\morefuelsmodlight\fuels\PoweredRail.java"
+
+startProcessing "com\bored\morefuelsmodlight\fuels\PumpkinSeeds.java" md5: a8c28667fd13036350de507fb06d0c67
+endProcessing "com\bored\morefuelsmodlight\fuels\PumpkinSeeds.java"
+
+startProcessing "com\bored\morefuelsmodlight\fuels\RabbitFoot.java" md5: 0b0717bdb675b9546f0d080d8bce2cc3
+endProcessing "com\bored\morefuelsmodlight\fuels\RabbitFoot.java"
+
+startProcessing "com\bored\morefuelsmodlight\fuels\Rail.java" md5: e49f1686e03f45c347c18a6d2c6355d5
+endProcessing "com\bored\morefuelsmodlight\fuels\Rail.java"
+
+startProcessing "com\bored\morefuelsmodlight\fuels\RedFlower.java" md5: d2bc0093e7eafa2646250a27a4260fd4
+endProcessing "com\bored\morefuelsmodlight\fuels\RedFlower.java"
+
+startProcessing "com\bored\morefuelsmodlight\fuels\RedstoneTorch.java" md5: e64897cbadab04df7a6b4cdee7cba647
+endProcessing "com\bored\morefuelsmodlight\fuels\RedstoneTorch.java"
+
+startProcessing "com\bored\morefuelsmodlight\fuels\RottenFlesh.java" md5: eece7e4fb86cf215d20bf7aeb88ef07f
+endProcessing "com\bored\morefuelsmodlight\fuels\RottenFlesh.java"
+
+startProcessing "com\bored\morefuelsmodlight\fuels\Shield.java" md5: b18216fe1bce570df9a70386afe2d417
+endProcessing "com\bored\morefuelsmodlight\fuels\Shield.java"
+
+startProcessing "com\bored\morefuelsmodlight\fuels\Sign.java" md5: b7e36d422b8d7c5f1d2b88b78e78e06a
+endProcessing "com\bored\morefuelsmodlight\fuels\Sign.java"
+
+startProcessing "com\bored\morefuelsmodlight\fuels\SpawnEgg.java" md5: a8437dab5170f4037dad54250dba541e
+endProcessing "com\bored\morefuelsmodlight\fuels\SpawnEgg.java"
+
+startProcessing "com\bored\morefuelsmodlight\fuels\SpiderEye.java" md5: 1993be637e4b9ee98d102e44f22cf8a9
+endProcessing "com\bored\morefuelsmodlight\fuels\SpiderEye.java"
+
+startProcessing "com\bored\morefuelsmodlight\fuels\StickyPiston.java" md5: fae60935c77435b7de77230b53a807fb
+endProcessing "com\bored\morefuelsmodlight\fuels\StickyPiston.java"
+
+startProcessing "com\bored\morefuelsmodlight\fuels\Sugarcane.java" md5: d6f968b504846b077bd0620437da979d
+endProcessing "com\bored\morefuelsmodlight\fuels\Sugarcane.java"
+
+startProcessing "com\bored\morefuelsmodlight\fuels\TNT.java" md5: f673a3718f0ba1470c7025ee3428fe10
+endProcessing "com\bored\morefuelsmodlight\fuels\TNT.java"
+
+startProcessing "com\bored\morefuelsmodlight\fuels\TNTMinecart.java" md5: 789b4f374cd5af61a97ff77768c506fb
+endProcessing "com\bored\morefuelsmodlight\fuels\TNTMinecart.java"
+
+startProcessing "com\bored\morefuelsmodlight\fuels\Torch.java" md5: 9331d5270cc03ca3885e26f6288f2d96
+endProcessing "com\bored\morefuelsmodlight\fuels\Torch.java"
+
+startProcessing "com\bored\morefuelsmodlight\fuels\TripwireHook.java" md5: 3c56045599ac52ed58fcc744d00aaccf
+endProcessing "com\bored\morefuelsmodlight\fuels\TripwireHook.java"
+
+startProcessing "com\bored\morefuelsmodlight\fuels\Vine.java" md5: 9500c9001b7c20f5bf9637c9e75843a5
+endProcessing "com\bored\morefuelsmodlight\fuels\Vine.java"
+
+startProcessing "com\bored\morefuelsmodlight\fuels\WaterLily.java" md5: d9f19c5b84a41a0ba3065b47e76ed246
+endProcessing "com\bored\morefuelsmodlight\fuels\WaterLily.java"
+
+startProcessing "com\bored\morefuelsmodlight\fuels\Web.java" md5: a10b1924c9202ac25f3409ed39ccd061
+endProcessing "com\bored\morefuelsmodlight\fuels\Web.java"
+
+startProcessing "com\bored\morefuelsmodlight\fuels\Wheat.java" md5: 83d7fbd7b2aef26dbdd91f20076dd5c5
+endProcessing "com\bored\morefuelsmodlight\fuels\Wheat.java"
+
+startProcessing "com\bored\morefuelsmodlight\fuels\WheatSeeds.java" md5: fb8d5f37839c5834516a625549908ae6
+endProcessing "com\bored\morefuelsmodlight\fuels\WheatSeeds.java"
+
+startProcessing "com\bored\morefuelsmodlight\fuels\WoodenButton.java" md5: 4d5b6e6e7611c47e7ce73c1a22bebb80
+endProcessing "com\bored\morefuelsmodlight\fuels\WoodenButton.java"
+
+startProcessing "com\bored\morefuelsmodlight\fuels\Wool.java" md5: 41b10a9cdfb9ae76e5c1fdef6e834920
+endProcessing "com\bored\morefuelsmodlight\fuels\Wool.java"
+
+startProcessing "com\bored\morefuelsmodlight\fuels\WritableBook.java" md5: 458c8d19d7b9c554f497dee3edbfd1c7
+endProcessing "com\bored\morefuelsmodlight\fuels\WritableBook.java"
+
+startProcessing "com\bored\morefuelsmodlight\fuels\WrittenBook.java" md5: dc8a516b21dc13b8b1792fcaec63f8a3
+endProcessing "com\bored\morefuelsmodlight\fuels\WrittenBook.java"
+
+startProcessing "com\bored\morefuelsmodlight\fuels\YellowFlower.java" md5: e39689eb82c086441a1af3133dc69561
+endProcessing "com\bored\morefuelsmodlight\fuels\YellowFlower.java"
+
+startProcessing "com\bored\morefuelsmodlight\util\RFtL.java" md5: b9b85dc9cfe21fd95aa4bf598e612b4d
+endProcessing "com\bored\morefuelsmodlight\util\RFtL.java"
+
