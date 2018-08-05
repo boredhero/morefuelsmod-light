@@ -9,20 +9,37 @@
 #################################################
 :deobfCompileDummyTask
 :deobfProvidedDummyTask
-:eclipseClasspath
-Download https://libraries.minecraft.net/com/mojang/authlib/1.5.22/authlib-1.5.22-sources.jar
-:eclipseJdt
-:eclipseProject
+:sourceApiJava
+:compileApiJava UP-TO-DATE
+:processApiResources UP-TO-DATE
+:apiClasses UP-TO-DATE
+:sourceMainJava
+:compileJavawarning: [options] bootstrap class path not set in conjunction with -source 1.6
+1 warning
+
+:processResources
+:classes
+:jar
+:sourceTestJava
+:compileTestJava UP-TO-DATE
+:processTestResources UP-TO-DATE
+:testClasses UP-TO-DATE
+:test UP-TO-DATE
+:extractMcpData SKIPPED
+:extractMcpMappings
 :getVersionJson
-:extractNatives SKIPPED
 :extractUserdev UP-TO-DATE
-:getAssetIndex UP-TO-DATE
-:getAssets
-:makeStart
-:makeEclipseCleanRunClient
-:makeEclipseCleanRunServer
-:eclipse
+:genSrgs SKIPPED
+:reobfJar
+:extractRangemapReplacedMain
+C:\Code\morefuelsmod-light\build\sources\main\java
+:retromapReplacedMain
+remapping source...
+:sourceJar
+:assemble
+:check UP-TO-DATE
+:build
 
 BUILD SUCCESSFUL
 
-Total time: 10.179 secs
+Total time: 16.292 secs
