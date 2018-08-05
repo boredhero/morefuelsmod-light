@@ -1,0 +1,15 @@
+[
+{
+  "modid": "morefuelsmodlight",
+  "name": "§3More Fuels Mod Light",
+  "description": "§b§oA mod that makes more items usable as fuel.",
+  "version": "",
+  "mcversion": "1.11.2",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["§3B§bo§3r§be§3d"],
+  "logoFile": "mfml-logo.png",
+  "screenshots": [],
+  "dependencies": ["mod_Forge"]
+}
+]
