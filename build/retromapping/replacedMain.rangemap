@@ -1,6 +1,7 @@
 Symbol range map extraction starting
 Processing 72 files
 startProcessing "com\bored\morefuelsmodlight\Main.java" md5: ddca4b9dfdeb2f9b96c5ab3106c1844d
+Cache Hit!
 @|com\bored\morefuelsmodlight\Main.java|8|35|com.bored.morefuelsmodlight|package|com.bored.morefuelsmodlight|(file)
 Class Start: com.bored.morefuelsmodlight.Main
    @|com\bored\morefuelsmodlight\Main.java|449|452|Mod|class|net.minecraftforge.fml.common.Mod
@@ -557,6 +558,7 @@ Class End  : com.bored.morefuelsmodlight.Main
 endProcessing "com\bored\morefuelsmodlight\Main.java"
 
 startProcessing "com\bored\morefuelsmodlight\RFtL.java" md5: f9f25fade7ecb39e34279bf645d6a1ae
+Cache Hit!
 @|com\bored\morefuelsmodlight\RFtL.java|8|35|com.bored.morefuelsmodlight|package|com.bored.morefuelsmodlight|(file)
 Class Start: com.bored.morefuelsmodlight.RFtL
    @|com\bored\morefuelsmodlight\RFtL.java|182|186|RFtL|class|com.bored.morefuelsmodlight.RFtL
@@ -574,6 +576,7 @@ Class End  : com.bored.morefuelsmodlight.RFtL
 endProcessing "com\bored\morefuelsmodlight\RFtL.java"
 
 startProcessing "com\bored\morefuelsmodlight\fuels\ActivatorRail.java" md5: cc8841c868dab5d260516216def0924c
+Cache Hit!
 @|com\bored\morefuelsmodlight\fuels\ActivatorRail.java|8|41|com.bored.morefuelsmodlight.fuels|package|com.bored.morefuelsmodlight.fuels|(file)
 Class Start: com.bored.morefuelsmodlight.fuels.ActivatorRail
    @|com\bored\morefuelsmodlight\fuels\ActivatorRail.java|212|225|ActivatorRail|class|com.bored.morefuelsmodlight.fuels.ActivatorRail
@@ -594,6 +597,7 @@ Class End  : com.bored.morefuelsmodlight.fuels.ActivatorRail
 endProcessing "com\bored\morefuelsmodlight\fuels\ActivatorRail.java"
 
 startProcessing "com\bored\morefuelsmodlight\fuels\ArmorStand.java" md5: 5bb898bcccf97305cd9c1c38aa2999e3
+Cache Hit!
 @|com\bored\morefuelsmodlight\fuels\ArmorStand.java|8|41|com.bored.morefuelsmodlight.fuels|package|com.bored.morefuelsmodlight.fuels|(file)
 Class Start: com.bored.morefuelsmodlight.fuels.ArmorStand
    @|com\bored\morefuelsmodlight\fuels\ArmorStand.java|179|189|ArmorStand|class|com.bored.morefuelsmodlight.fuels.ArmorStand
@@ -612,6 +616,7 @@ Class End  : com.bored.morefuelsmodlight.fuels.ArmorStand
 endProcessing "com\bored\morefuelsmodlight\fuels\ArmorStand.java"
 
 startProcessing "com\bored\morefuelsmodlight\fuels\Arrow.java" md5: 4b07e4b8098ae57f47d29b73ce311b16
+Cache Hit!
 @|com\bored\morefuelsmodlight\fuels\Arrow.java|8|41|com.bored.morefuelsmodlight.fuels|package|com.bored.morefuelsmodlight.fuels|(file)
 Class Start: com.bored.morefuelsmodlight.fuels.Arrow
    @|com\bored\morefuelsmodlight\fuels\Arrow.java|179|184|Arrow|class|com.bored.morefuelsmodlight.fuels.Arrow
@@ -630,6 +635,7 @@ Class End  : com.bored.morefuelsmodlight.fuels.Arrow
 endProcessing "com\bored\morefuelsmodlight\fuels\Arrow.java"
 
 startProcessing "com\bored\morefuelsmodlight\fuels\Bed.java" md5: 3559286a7c3bd7d36377189e5f1a8082
+Cache Hit!
 @|com\bored\morefuelsmodlight\fuels\Bed.java|8|41|com.bored.morefuelsmodlight.fuels|package|com.bored.morefuelsmodlight.fuels|(file)
 Class Start: com.bored.morefuelsmodlight.fuels.Bed
    @|com\bored\morefuelsmodlight\fuels\Bed.java|179|182|Bed|class|com.bored.morefuelsmodlight.fuels.Bed
@@ -648,6 +654,7 @@ Class End  : com.bored.morefuelsmodlight.fuels.Bed
 endProcessing "com\bored\morefuelsmodlight\fuels\Bed.java"
 
 startProcessing "com\bored\morefuelsmodlight\fuels\BeetSeeds.java" md5: b7f7a7b53d8df55002ef0cb2267819c8
+Cache Hit!
 @|com\bored\morefuelsmodlight\fuels\BeetSeeds.java|8|41|com.bored.morefuelsmodlight.fuels|package|com.bored.morefuelsmodlight.fuels|(file)
 Class Start: com.bored.morefuelsmodlight.fuels.BeetSeeds
    @|com\bored\morefuelsmodlight\fuels\BeetSeeds.java|179|188|BeetSeeds|class|com.bored.morefuelsmodlight.fuels.BeetSeeds
@@ -666,6 +673,7 @@ Class End  : com.bored.morefuelsmodlight.fuels.BeetSeeds
 endProcessing "com\bored\morefuelsmodlight\fuels\BeetSeeds.java"
 
 startProcessing "com\bored\morefuelsmodlight\fuels\BlazePowder.java" md5: 1511cf7d8261badd8ea2e31dfaaa6186
+Cache Hit!
 @|com\bored\morefuelsmodlight\fuels\BlazePowder.java|8|41|com.bored.morefuelsmodlight.fuels|package|com.bored.morefuelsmodlight.fuels|(file)
 Class Start: com.bored.morefuelsmodlight.fuels.BlazePowder
    @|com\bored\morefuelsmodlight\fuels\BlazePowder.java|179|190|BlazePowder|class|com.bored.morefuelsmodlight.fuels.BlazePowder
@@ -684,6 +692,7 @@ Class End  : com.bored.morefuelsmodlight.fuels.BlazePowder
 endProcessing "com\bored\morefuelsmodlight\fuels\BlazePowder.java"
 
 startProcessing "com\bored\morefuelsmodlight\fuels\Book.java" md5: 38c27fcc287881fd16ce12b0560e990d
+Cache Hit!
 @|com\bored\morefuelsmodlight\fuels\Book.java|8|41|com.bored.morefuelsmodlight.fuels|package|com.bored.morefuelsmodlight.fuels|(file)
 Class Start: com.bored.morefuelsmodlight.fuels.Book
    @|com\bored\morefuelsmodlight\fuels\Book.java|179|183|Book|class|com.bored.morefuelsmodlight.fuels.Book
@@ -702,6 +711,7 @@ Class End  : com.bored.morefuelsmodlight.fuels.Book
 endProcessing "com\bored\morefuelsmodlight\fuels\Book.java"
 
 startProcessing "com\bored\morefuelsmodlight\fuels\Bowl.java" md5: ff0b2e02adf1d49d37172a8d8e2f97bb
+Cache Hit!
 @|com\bored\morefuelsmodlight\fuels\Bowl.java|8|41|com.bored.morefuelsmodlight.fuels|package|com.bored.morefuelsmodlight.fuels|(file)
 Class Start: com.bored.morefuelsmodlight.fuels.Bowl
    @|com\bored\morefuelsmodlight\fuels\Bowl.java|179|183|Bowl|class|com.bored.morefuelsmodlight.fuels.Bowl
@@ -720,6 +730,7 @@ Class End  : com.bored.morefuelsmodlight.fuels.Bowl
 endProcessing "com\bored\morefuelsmodlight\fuels\Bowl.java"
 
 startProcessing "com\bored\morefuelsmodlight\fuels\Cactus.java" md5: cf4c96be8bbd713af026352e63cedb2b
+Cache Hit!
 @|com\bored\morefuelsmodlight\fuels\Cactus.java|8|41|com.bored.morefuelsmodlight.fuels|package|com.bored.morefuelsmodlight.fuels|(file)
 Class Start: com.bored.morefuelsmodlight.fuels.Cactus
    @|com\bored\morefuelsmodlight\fuels\Cactus.java|212|218|Cactus|class|com.bored.morefuelsmodlight.fuels.Cactus
@@ -740,6 +751,7 @@ Class End  : com.bored.morefuelsmodlight.fuels.Cactus
 endProcessing "com\bored\morefuelsmodlight\fuels\Cactus.java"
 
 startProcessing "com\bored\morefuelsmodlight\fuels\Carpet.java" md5: 4c3fe0ed2ea64bad479f485f7f62ef30
+Cache Hit!
 @|com\bored\morefuelsmodlight\fuels\Carpet.java|8|41|com.bored.morefuelsmodlight.fuels|package|com.bored.morefuelsmodlight.fuels|(file)
 Class Start: com.bored.morefuelsmodlight.fuels.Carpet
    @|com\bored\morefuelsmodlight\fuels\Carpet.java|212|218|Carpet|class|com.bored.morefuelsmodlight.fuels.Carpet
@@ -760,6 +772,7 @@ Class End  : com.bored.morefuelsmodlight.fuels.Carpet
 endProcessing "com\bored\morefuelsmodlight\fuels\Carpet.java"
 
 startProcessing "com\bored\morefuelsmodlight\fuels\CarrotOnAStick.java" md5: bf703042a840b32b9d8351dd083712e5
+Cache Hit!
 @|com\bored\morefuelsmodlight\fuels\CarrotOnAStick.java|8|41|com.bored.morefuelsmodlight.fuels|package|com.bored.morefuelsmodlight.fuels|(file)
 Class Start: com.bored.morefuelsmodlight.fuels.CarrotOnAStick
    @|com\bored\morefuelsmodlight\fuels\CarrotOnAStick.java|179|193|CarrotOnAStick|class|com.bored.morefuelsmodlight.fuels.CarrotOnAStick
@@ -778,6 +791,7 @@ Class End  : com.bored.morefuelsmodlight.fuels.CarrotOnAStick
 endProcessing "com\bored\morefuelsmodlight\fuels\CarrotOnAStick.java"
 
 startProcessing "com\bored\morefuelsmodlight\fuels\ChorusFlowers.java" md5: 5af280d43b87056adb6bf9e91f2ec1a7
+Cache Hit!
 @|com\bored\morefuelsmodlight\fuels\ChorusFlowers.java|8|41|com.bored.morefuelsmodlight.fuels|package|com.bored.morefuelsmodlight.fuels|(file)
 Class Start: com.bored.morefuelsmodlight.fuels.ChorusFlowers
    @|com\bored\morefuelsmodlight\fuels\ChorusFlowers.java|212|225|ChorusFlowers|class|com.bored.morefuelsmodlight.fuels.ChorusFlowers
@@ -798,6 +812,7 @@ Class End  : com.bored.morefuelsmodlight.fuels.ChorusFlowers
 endProcessing "com\bored\morefuelsmodlight\fuels\ChorusFlowers.java"
 
 startProcessing "com\bored\morefuelsmodlight\fuels\ChorusPlant.java" md5: 0f72e9aeaeae73776c0ca20408acc03c
+Cache Hit!
 @|com\bored\morefuelsmodlight\fuels\ChorusPlant.java|8|41|com.bored.morefuelsmodlight.fuels|package|com.bored.morefuelsmodlight.fuels|(file)
 Class Start: com.bored.morefuelsmodlight.fuels.ChorusPlant
    @|com\bored\morefuelsmodlight\fuels\ChorusPlant.java|212|223|ChorusPlant|class|com.bored.morefuelsmodlight.fuels.ChorusPlant
@@ -818,6 +833,7 @@ Class End  : com.bored.morefuelsmodlight.fuels.ChorusPlant
 endProcessing "com\bored\morefuelsmodlight\fuels\ChorusPlant.java"
 
 startProcessing "com\bored\morefuelsmodlight\fuels\Deadbush.java" md5: 8f6c49582a1b6643786e29ec795f2e44
+Cache Hit!
 @|com\bored\morefuelsmodlight\fuels\Deadbush.java|8|41|com.bored.morefuelsmodlight.fuels|package|com.bored.morefuelsmodlight.fuels|(file)
 Class Start: com.bored.morefuelsmodlight.fuels.Deadbush
    @|com\bored\morefuelsmodlight\fuels\Deadbush.java|212|220|Deadbush|class|com.bored.morefuelsmodlight.fuels.Deadbush
@@ -838,6 +854,7 @@ Class End  : com.bored.morefuelsmodlight.fuels.Deadbush
 endProcessing "com\bored\morefuelsmodlight\fuels\Deadbush.java"
 
 startProcessing "com\bored\morefuelsmodlight\fuels\DetectorRail.java" md5: 366c640ac95057cf48c840e04fbd5f46
+Cache Hit!
 @|com\bored\morefuelsmodlight\fuels\DetectorRail.java|8|41|com.bored.morefuelsmodlight.fuels|package|com.bored.morefuelsmodlight.fuels|(file)
 Class Start: com.bored.morefuelsmodlight.fuels.DetectorRail
    @|com\bored\morefuelsmodlight\fuels\DetectorRail.java|212|224|DetectorRail|class|com.bored.morefuelsmodlight.fuels.DetectorRail
@@ -858,6 +875,7 @@ Class End  : com.bored.morefuelsmodlight.fuels.DetectorRail
 endProcessing "com\bored\morefuelsmodlight\fuels\DetectorRail.java"
 
 startProcessing "com\bored\morefuelsmodlight\fuels\Doors.java" md5: 627cfdb04ebb585c1b03f2b2b95ce5e1
+Cache Hit!
 @|com\bored\morefuelsmodlight\fuels\Doors.java|73|106|com.bored.morefuelsmodlight.fuels|package|com.bored.morefuelsmodlight.fuels|(file)
 Class Start: com.bored.morefuelsmodlight.fuels.Doors
    @|com\bored\morefuelsmodlight\fuels\Doors.java|244|249|Doors|class|com.bored.morefuelsmodlight.fuels.Doors
@@ -896,6 +914,7 @@ Class End  : com.bored.morefuelsmodlight.fuels.Doors
 endProcessing "com\bored\morefuelsmodlight\fuels\Doors.java"
 
 startProcessing "com\bored\morefuelsmodlight\fuels\DoublePlant.java" md5: ceb1fd724523c8f0acd549f6eff74714
+Cache Hit!
 @|com\bored\morefuelsmodlight\fuels\DoublePlant.java|145|178|com.bored.morefuelsmodlight.fuels|package|com.bored.morefuelsmodlight.fuels|(file)
 Class Start: com.bored.morefuelsmodlight.fuels.DoublePlant
    @|com\bored\morefuelsmodlight\fuels\DoublePlant.java|349|360|DoublePlant|class|com.bored.morefuelsmodlight.fuels.DoublePlant
@@ -922,6 +941,7 @@ Class End  : com.bored.morefuelsmodlight.fuels.DoublePlant
 endProcessing "com\bored\morefuelsmodlight\fuels\DoublePlant.java"
 
 startProcessing "com\bored\morefuelsmodlight\fuels\DragonBreath.java" md5: 9a4534d3d28f1adecdb968d8d1cc403e
+Cache Hit!
 @|com\bored\morefuelsmodlight\fuels\DragonBreath.java|8|41|com.bored.morefuelsmodlight.fuels|package|com.bored.morefuelsmodlight.fuels|(file)
 Class Start: com.bored.morefuelsmodlight.fuels.DragonBreath
    @|com\bored\morefuelsmodlight\fuels\DragonBreath.java|179|191|DragonBreath|class|com.bored.morefuelsmodlight.fuels.DragonBreath
@@ -940,6 +960,7 @@ Class End  : com.bored.morefuelsmodlight.fuels.DragonBreath
 endProcessing "com\bored\morefuelsmodlight\fuels\DragonBreath.java"
 
 startProcessing "com\bored\morefuelsmodlight\fuels\ExperimentalMushroomBlocks.java" md5: b3090acdec08a5007b3d65ae8ee27919
+Cache Hit!
 @|com\bored\morefuelsmodlight\fuels\ExperimentalMushroomBlocks.java|8|41|com.bored.morefuelsmodlight.fuels|package|com.bored.morefuelsmodlight.fuels|(file)
 Class Start: com.bored.morefuelsmodlight.fuels.ExperimentalMushroomBlocks
    @|com\bored\morefuelsmodlight\fuels\ExperimentalMushroomBlocks.java|212|238|ExperimentalMushroomBlocks|class|com.bored.morefuelsmodlight.fuels.ExperimentalMushroomBlocks
@@ -966,6 +987,7 @@ Class End  : com.bored.morefuelsmodlight.fuels.ExperimentalMushroomBlocks
 endProcessing "com\bored\morefuelsmodlight\fuels\ExperimentalMushroomBlocks.java"
 
 startProcessing "com\bored\morefuelsmodlight\fuels\ExperimentalPotions.java" md5: ca9bf7b3daa0cf8ade8ed2a12ff7b313
+Cache Hit!
 @|com\bored\morefuelsmodlight\fuels\ExperimentalPotions.java|137|170|com.bored.morefuelsmodlight.fuels|package|com.bored.morefuelsmodlight.fuels|(file)
 Class Start: com.bored.morefuelsmodlight.fuels.ExperimentalPotions
    @|com\bored\morefuelsmodlight\fuels\ExperimentalPotions.java|308|327|ExperimentalPotions|class|com.bored.morefuelsmodlight.fuels.ExperimentalPotions
@@ -984,6 +1006,7 @@ Class End  : com.bored.morefuelsmodlight.fuels.ExperimentalPotions
 endProcessing "com\bored\morefuelsmodlight\fuels\ExperimentalPotions.java"
 
 startProcessing "com\bored\morefuelsmodlight\fuels\Feather.java" md5: 2b5e7a1f4b1f923c512851472b014f27
+Cache Hit!
 @|com\bored\morefuelsmodlight\fuels\Feather.java|8|41|com.bored.morefuelsmodlight.fuels|package|com.bored.morefuelsmodlight.fuels|(file)
 Class Start: com.bored.morefuelsmodlight.fuels.Feather
    @|com\bored\morefuelsmodlight\fuels\Feather.java|179|186|Feather|class|com.bored.morefuelsmodlight.fuels.Feather
@@ -1002,6 +1025,7 @@ Class End  : com.bored.morefuelsmodlight.fuels.Feather
 endProcessing "com\bored\morefuelsmodlight\fuels\Feather.java"
 
 startProcessing "com\bored\morefuelsmodlight\fuels\FermentedSpiderEye.java" md5: 02eb9b8d871ffa4b073ce3520255f414
+Cache Hit!
 @|com\bored\morefuelsmodlight\fuels\FermentedSpiderEye.java|8|41|com.bored.morefuelsmodlight.fuels|package|com.bored.morefuelsmodlight.fuels|(file)
 Class Start: com.bored.morefuelsmodlight.fuels.FermentedSpiderEye
    @|com\bored\morefuelsmodlight\fuels\FermentedSpiderEye.java|179|197|FermentedSpiderEye|class|com.bored.morefuelsmodlight.fuels.FermentedSpiderEye
@@ -1020,6 +1044,7 @@ Class End  : com.bored.morefuelsmodlight.fuels.FermentedSpiderEye
 endProcessing "com\bored\morefuelsmodlight\fuels\FermentedSpiderEye.java"
 
 startProcessing "com\bored\morefuelsmodlight\fuels\FireCharge.java" md5: 54995f7fd45a324420a4a99f903de1b0
+Cache Hit!
 @|com\bored\morefuelsmodlight\fuels\FireCharge.java|8|41|com.bored.morefuelsmodlight.fuels|package|com.bored.morefuelsmodlight.fuels|(file)
 Class Start: com.bored.morefuelsmodlight.fuels.FireCharge
    @|com\bored\morefuelsmodlight\fuels\FireCharge.java|179|189|FireCharge|class|com.bored.morefuelsmodlight.fuels.FireCharge
@@ -1038,6 +1063,7 @@ Class End  : com.bored.morefuelsmodlight.fuels.FireCharge
 endProcessing "com\bored\morefuelsmodlight\fuels\FireCharge.java"
 
 startProcessing "com\bored\morefuelsmodlight\fuels\FireworkCharge.java" md5: fb7b055699a3c9fe719751acc9afd97f
+Cache Hit!
 @|com\bored\morefuelsmodlight\fuels\FireworkCharge.java|8|41|com.bored.morefuelsmodlight.fuels|package|com.bored.morefuelsmodlight.fuels|(file)
 Class Start: com.bored.morefuelsmodlight.fuels.FireworkCharge
    @|com\bored\morefuelsmodlight\fuels\FireworkCharge.java|179|193|FireworkCharge|class|com.bored.morefuelsmodlight.fuels.FireworkCharge
@@ -1056,6 +1082,7 @@ Class End  : com.bored.morefuelsmodlight.fuels.FireworkCharge
 endProcessing "com\bored\morefuelsmodlight\fuels\FireworkCharge.java"
 
 startProcessing "com\bored\morefuelsmodlight\fuels\Fireworks.java" md5: 3f6716dbafc5953b405a97c1beba7a40
+Cache Hit!
 @|com\bored\morefuelsmodlight\fuels\Fireworks.java|8|41|com.bored.morefuelsmodlight.fuels|package|com.bored.morefuelsmodlight.fuels|(file)
 Class Start: com.bored.morefuelsmodlight.fuels.Fireworks
    @|com\bored\morefuelsmodlight\fuels\Fireworks.java|179|188|Fireworks|class|com.bored.morefuelsmodlight.fuels.Fireworks
@@ -1074,6 +1101,7 @@ Class End  : com.bored.morefuelsmodlight.fuels.Fireworks
 endProcessing "com\bored\morefuelsmodlight\fuels\Fireworks.java"
 
 startProcessing "com\bored\morefuelsmodlight\fuels\FishingRod.java" md5: f3fff0ff6d8e7b7d8d14df2664884bcd
+Cache Hit!
 @|com\bored\morefuelsmodlight\fuels\FishingRod.java|8|41|com.bored.morefuelsmodlight.fuels|package|com.bored.morefuelsmodlight.fuels|(file)
 Class Start: com.bored.morefuelsmodlight.fuels.FishingRod
    @|com\bored\morefuelsmodlight\fuels\FishingRod.java|179|189|FishingRod|class|com.bored.morefuelsmodlight.fuels.FishingRod
@@ -1092,6 +1120,7 @@ Class End  : com.bored.morefuelsmodlight.fuels.FishingRod
 endProcessing "com\bored\morefuelsmodlight\fuels\FishingRod.java"
 
 startProcessing "com\bored\morefuelsmodlight\fuels\GhastTear.java" md5: 978a1661569f0dd07e966b386c73c5c1
+Cache Hit!
 @|com\bored\morefuelsmodlight\fuels\GhastTear.java|8|41|com.bored.morefuelsmodlight.fuels|package|com.bored.morefuelsmodlight.fuels|(file)
 Class Start: com.bored.morefuelsmodlight.fuels.GhastTear
    @|com\bored\morefuelsmodlight\fuels\GhastTear.java|179|188|GhastTear|class|com.bored.morefuelsmodlight.fuels.GhastTear
@@ -1110,6 +1139,7 @@ Class End  : com.bored.morefuelsmodlight.fuels.GhastTear
 endProcessing "com\bored\morefuelsmodlight\fuels\GhastTear.java"
 
 startProcessing "com\bored\morefuelsmodlight\fuels\Gunpowder.java" md5: 3f823e519040491c28d137d50c0b50cc
+Cache Hit!
 @|com\bored\morefuelsmodlight\fuels\Gunpowder.java|8|41|com.bored.morefuelsmodlight.fuels|package|com.bored.morefuelsmodlight.fuels|(file)
 Class Start: com.bored.morefuelsmodlight.fuels.Gunpowder
    @|com\bored\morefuelsmodlight\fuels\Gunpowder.java|179|188|Gunpowder|class|com.bored.morefuelsmodlight.fuels.Gunpowder
@@ -1128,6 +1158,7 @@ Class End  : com.bored.morefuelsmodlight.fuels.Gunpowder
 endProcessing "com\bored\morefuelsmodlight\fuels\Gunpowder.java"
 
 startProcessing "com\bored\morefuelsmodlight\fuels\HayBlock.java" md5: 0635cf7a11b6eefa9ab834aa3155d982
+Cache Hit!
 @|com\bored\morefuelsmodlight\fuels\HayBlock.java|8|41|com.bored.morefuelsmodlight.fuels|package|com.bored.morefuelsmodlight.fuels|(file)
 Class Start: com.bored.morefuelsmodlight.fuels.HayBlock
    @|com\bored\morefuelsmodlight\fuels\HayBlock.java|212|220|HayBlock|class|com.bored.morefuelsmodlight.fuels.HayBlock
@@ -1148,6 +1179,7 @@ Class End  : com.bored.morefuelsmodlight.fuels.HayBlock
 endProcessing "com\bored\morefuelsmodlight\fuels\HayBlock.java"
 
 startProcessing "com\bored\morefuelsmodlight\fuels\ItemFrame.java" md5: 7f58bdf81c6e11bec14fdb1a2011de17
+Cache Hit!
 @|com\bored\morefuelsmodlight\fuels\ItemFrame.java|8|41|com.bored.morefuelsmodlight.fuels|package|com.bored.morefuelsmodlight.fuels|(file)
 Class Start: com.bored.morefuelsmodlight.fuels.ItemFrame
    @|com\bored\morefuelsmodlight\fuels\ItemFrame.java|179|188|ItemFrame|class|com.bored.morefuelsmodlight.fuels.ItemFrame
@@ -1166,6 +1198,7 @@ Class End  : com.bored.morefuelsmodlight.fuels.ItemFrame
 endProcessing "com\bored\morefuelsmodlight\fuels\ItemFrame.java"
 
 startProcessing "com\bored\morefuelsmodlight\fuels\Ladder.java" md5: 4f48a2c0c164c9df487e562254b6711a
+Cache Hit!
 @|com\bored\morefuelsmodlight\fuels\Ladder.java|8|41|com.bored.morefuelsmodlight.fuels|package|com.bored.morefuelsmodlight.fuels|(file)
 Class Start: com.bored.morefuelsmodlight.fuels.Ladder
    @|com\bored\morefuelsmodlight\fuels\Ladder.java|212|218|Ladder|class|com.bored.morefuelsmodlight.fuels.Ladder
@@ -1186,6 +1219,7 @@ Class End  : com.bored.morefuelsmodlight.fuels.Ladder
 endProcessing "com\bored\morefuelsmodlight\fuels\Ladder.java"
 
 startProcessing "com\bored\morefuelsmodlight\fuels\Leather.java" md5: f907d9b9c4da29d1eba936e049a9f19b
+Cache Hit!
 @|com\bored\morefuelsmodlight\fuels\Leather.java|8|41|com.bored.morefuelsmodlight.fuels|package|com.bored.morefuelsmodlight.fuels|(file)
 Class Start: com.bored.morefuelsmodlight.fuels.Leather
    @|com\bored\morefuelsmodlight\fuels\Leather.java|179|186|Leather|class|com.bored.morefuelsmodlight.fuels.Leather
@@ -1204,6 +1238,7 @@ Class End  : com.bored.morefuelsmodlight.fuels.Leather
 endProcessing "com\bored\morefuelsmodlight\fuels\Leather.java"
 
 startProcessing "com\bored\morefuelsmodlight\fuels\LeatherArmor.java" md5: 82726d73a11c6102a4eb24e08cd8fad3
+Cache Hit!
 @|com\bored\morefuelsmodlight\fuels\LeatherArmor.java|8|41|com.bored.morefuelsmodlight.fuels|package|com.bored.morefuelsmodlight.fuels|(file)
 Class Start: com.bored.morefuelsmodlight.fuels.LeatherArmor
    @|com\bored\morefuelsmodlight\fuels\LeatherArmor.java|179|191|LeatherArmor|class|com.bored.morefuelsmodlight.fuels.LeatherArmor
@@ -1234,6 +1269,7 @@ Class End  : com.bored.morefuelsmodlight.fuels.LeatherArmor
 endProcessing "com\bored\morefuelsmodlight\fuels\LeatherArmor.java"
 
 startProcessing "com\bored\morefuelsmodlight\fuels\Lever.java" md5: cb2bc70cce3c29f090b23d792b59e816
+Cache Hit!
 @|com\bored\morefuelsmodlight\fuels\Lever.java|8|41|com.bored.morefuelsmodlight.fuels|package|com.bored.morefuelsmodlight.fuels|(file)
 Class Start: com.bored.morefuelsmodlight.fuels.Lever
    @|com\bored\morefuelsmodlight\fuels\Lever.java|212|217|Lever|class|com.bored.morefuelsmodlight.fuels.Lever
@@ -1254,6 +1290,7 @@ Class End  : com.bored.morefuelsmodlight.fuels.Lever
 endProcessing "com\bored\morefuelsmodlight\fuels\Lever.java"
 
 startProcessing "com\bored\morefuelsmodlight\fuels\MagmaCream.java" md5: f58b0aa0aebabfe0a048c51749690139
+Cache Hit!
 @|com\bored\morefuelsmodlight\fuels\MagmaCream.java|8|41|com.bored.morefuelsmodlight.fuels|package|com.bored.morefuelsmodlight.fuels|(file)
 Class Start: com.bored.morefuelsmodlight.fuels.MagmaCream
    @|com\bored\morefuelsmodlight\fuels\MagmaCream.java|179|189|MagmaCream|class|com.bored.morefuelsmodlight.fuels.MagmaCream
@@ -1272,6 +1309,7 @@ Class End  : com.bored.morefuelsmodlight.fuels.MagmaCream
 endProcessing "com\bored\morefuelsmodlight\fuels\MagmaCream.java"
 
 startProcessing "com\bored\morefuelsmodlight\fuels\Maps.java" md5: 0c35936bf5cb508b6b9df788e21c1386
+Cache Hit!
 @|com\bored\morefuelsmodlight\fuels\Maps.java|67|100|com.bored.morefuelsmodlight.fuels|package|com.bored.morefuelsmodlight.fuels|(file)
 Class Start: com.bored.morefuelsmodlight.fuels.Maps
    @|com\bored\morefuelsmodlight\fuels\Maps.java|238|242|Maps|class|com.bored.morefuelsmodlight.fuels.Maps
@@ -1294,6 +1332,7 @@ Class End  : com.bored.morefuelsmodlight.fuels.Maps
 endProcessing "com\bored\morefuelsmodlight\fuels\Maps.java"
 
 startProcessing "com\bored\morefuelsmodlight\fuels\MelonSeeds.java" md5: 595b63fbd63a9423bf6b6df86e7b6735
+Cache Hit!
 @|com\bored\morefuelsmodlight\fuels\MelonSeeds.java|8|41|com.bored.morefuelsmodlight.fuels|package|com.bored.morefuelsmodlight.fuels|(file)
 Class Start: com.bored.morefuelsmodlight.fuels.MelonSeeds
    @|com\bored\morefuelsmodlight\fuels\MelonSeeds.java|179|189|MelonSeeds|class|com.bored.morefuelsmodlight.fuels.MelonSeeds
@@ -1312,6 +1351,7 @@ Class End  : com.bored.morefuelsmodlight.fuels.MelonSeeds
 endProcessing "com\bored\morefuelsmodlight\fuels\MelonSeeds.java"
 
 startProcessing "com\bored\morefuelsmodlight\fuels\MinecartWithChest.java" md5: 584947b4998160ae0c7ea1cebc03bb94
+Cache Hit!
 @|com\bored\morefuelsmodlight\fuels\MinecartWithChest.java|38|71|com.bored.morefuelsmodlight.fuels|package|com.bored.morefuelsmodlight.fuels|(file)
 Class Start: com.bored.morefuelsmodlight.fuels.MinecartWithChest
    @|com\bored\morefuelsmodlight\fuels\MinecartWithChest.java|209|226|MinecartWithChest|class|com.bored.morefuelsmodlight.fuels.MinecartWithChest
@@ -1330,6 +1370,7 @@ Class End  : com.bored.morefuelsmodlight.fuels.MinecartWithChest
 endProcessing "com\bored\morefuelsmodlight\fuels\MinecartWithChest.java"
 
 startProcessing "com\bored\morefuelsmodlight\fuels\MushroomItems.java" md5: fc7bac1c1d69c1d76a300705ab0ac214
+Cache Hit!
 @|com\bored\morefuelsmodlight\fuels\MushroomItems.java|40|73|com.bored.morefuelsmodlight.fuels|package|com.bored.morefuelsmodlight.fuels|(file)
 Class Start: com.bored.morefuelsmodlight.fuels.MushroomItems
    @|com\bored\morefuelsmodlight\fuels\MushroomItems.java|244|257|MushroomItems|class|com.bored.morefuelsmodlight.fuels.MushroomItems
@@ -1356,6 +1397,7 @@ Class End  : com.bored.morefuelsmodlight.fuels.MushroomItems
 endProcessing "com\bored\morefuelsmodlight\fuels\MushroomItems.java"
 
 startProcessing "com\bored\morefuelsmodlight\fuels\Painting.java" md5: 8296c4da9283c2f61107b62c50ce2f75
+Cache Hit!
 @|com\bored\morefuelsmodlight\fuels\Painting.java|8|41|com.bored.morefuelsmodlight.fuels|package|com.bored.morefuelsmodlight.fuels|(file)
 Class Start: com.bored.morefuelsmodlight.fuels.Painting
    @|com\bored\morefuelsmodlight\fuels\Painting.java|179|187|Painting|class|com.bored.morefuelsmodlight.fuels.Painting
@@ -1374,6 +1416,7 @@ Class End  : com.bored.morefuelsmodlight.fuels.Painting
 endProcessing "com\bored\morefuelsmodlight\fuels\Painting.java"
 
 startProcessing "com\bored\morefuelsmodlight\fuels\Paper.java" md5: 00e0ed82e4998444c126b9b69f765b43
+Cache Hit!
 @|com\bored\morefuelsmodlight\fuels\Paper.java|8|41|com.bored.morefuelsmodlight.fuels|package|com.bored.morefuelsmodlight.fuels|(file)
 Class Start: com.bored.morefuelsmodlight.fuels.Paper
    @|com\bored\morefuelsmodlight\fuels\Paper.java|179|184|Paper|class|com.bored.morefuelsmodlight.fuels.Paper
@@ -1392,6 +1435,7 @@ Class End  : com.bored.morefuelsmodlight.fuels.Paper
 endProcessing "com\bored\morefuelsmodlight\fuels\Paper.java"
 
 startProcessing "com\bored\morefuelsmodlight\fuels\Piston.java" md5: d6dc31684470ad99e0aacfa5c083b78f
+Cache Hit!
 @|com\bored\morefuelsmodlight\fuels\Piston.java|8|41|com.bored.morefuelsmodlight.fuels|package|com.bored.morefuelsmodlight.fuels|(file)
 Class Start: com.bored.morefuelsmodlight.fuels.Piston
    @|com\bored\morefuelsmodlight\fuels\Piston.java|212|218|Piston|class|com.bored.morefuelsmodlight.fuels.Piston
@@ -1412,6 +1456,7 @@ Class End  : com.bored.morefuelsmodlight.fuels.Piston
 endProcessing "com\bored\morefuelsmodlight\fuels\Piston.java"
 
 startProcessing "com\bored\morefuelsmodlight\fuels\PoisonousPotato.java" md5: 0387e8c20bac557214021a8f9302c087
+Cache Hit!
 @|com\bored\morefuelsmodlight\fuels\PoisonousPotato.java|8|41|com.bored.morefuelsmodlight.fuels|package|com.bored.morefuelsmodlight.fuels|(file)
 Class Start: com.bored.morefuelsmodlight.fuels.PoisonousPotato
    @|com\bored\morefuelsmodlight\fuels\PoisonousPotato.java|179|194|PoisonousPotato|class|com.bored.morefuelsmodlight.fuels.PoisonousPotato
@@ -1430,6 +1475,7 @@ Class End  : com.bored.morefuelsmodlight.fuels.PoisonousPotato
 endProcessing "com\bored\morefuelsmodlight\fuels\PoisonousPotato.java"
 
 startProcessing "com\bored\morefuelsmodlight\fuels\PoweredRail.java" md5: 9db69aaa9ab166546f166c84f21415ce
+Cache Hit!
 @|com\bored\morefuelsmodlight\fuels\PoweredRail.java|8|41|com.bored.morefuelsmodlight.fuels|package|com.bored.morefuelsmodlight.fuels|(file)
 Class Start: com.bored.morefuelsmodlight.fuels.PoweredRail
    @|com\bored\morefuelsmodlight\fuels\PoweredRail.java|212|223|PoweredRail|class|com.bored.morefuelsmodlight.fuels.PoweredRail
@@ -1450,6 +1496,7 @@ Class End  : com.bored.morefuelsmodlight.fuels.PoweredRail
 endProcessing "com\bored\morefuelsmodlight\fuels\PoweredRail.java"
 
 startProcessing "com\bored\morefuelsmodlight\fuels\PumpkinSeeds.java" md5: bc3111e9ba23ab797708412740ffb294
+Cache Hit!
 @|com\bored\morefuelsmodlight\fuels\PumpkinSeeds.java|8|41|com.bored.morefuelsmodlight.fuels|package|com.bored.morefuelsmodlight.fuels|(file)
 Class Start: com.bored.morefuelsmodlight.fuels.PumpkinSeeds
    @|com\bored\morefuelsmodlight\fuels\PumpkinSeeds.java|179|191|PumpkinSeeds|class|com.bored.morefuelsmodlight.fuels.PumpkinSeeds
@@ -1468,6 +1515,7 @@ Class End  : com.bored.morefuelsmodlight.fuels.PumpkinSeeds
 endProcessing "com\bored\morefuelsmodlight\fuels\PumpkinSeeds.java"
 
 startProcessing "com\bored\morefuelsmodlight\fuels\RabbitFoot.java" md5: 461895e27aac9484ba38bfb5c9c86d1d
+Cache Hit!
 @|com\bored\morefuelsmodlight\fuels\RabbitFoot.java|8|41|com.bored.morefuelsmodlight.fuels|package|com.bored.morefuelsmodlight.fuels|(file)
 Class Start: com.bored.morefuelsmodlight.fuels.RabbitFoot
    @|com\bored\morefuelsmodlight\fuels\RabbitFoot.java|179|189|RabbitFoot|class|com.bored.morefuelsmodlight.fuels.RabbitFoot
@@ -1486,6 +1534,7 @@ Class End  : com.bored.morefuelsmodlight.fuels.RabbitFoot
 endProcessing "com\bored\morefuelsmodlight\fuels\RabbitFoot.java"
 
 startProcessing "com\bored\morefuelsmodlight\fuels\Rail.java" md5: 7d6cc3fc24cf97b3200570ea0cef2776
+Cache Hit!
 @|com\bored\morefuelsmodlight\fuels\Rail.java|8|41|com.bored.morefuelsmodlight.fuels|package|com.bored.morefuelsmodlight.fuels|(file)
 Class Start: com.bored.morefuelsmodlight.fuels.Rail
    @|com\bored\morefuelsmodlight\fuels\Rail.java|212|216|Rail|class|com.bored.morefuelsmodlight.fuels.Rail
@@ -1506,6 +1555,7 @@ Class End  : com.bored.morefuelsmodlight.fuels.Rail
 endProcessing "com\bored\morefuelsmodlight\fuels\Rail.java"
 
 startProcessing "com\bored\morefuelsmodlight\fuels\RedFlower.java" md5: 2c851770c3b671d24139ac0c070754c5
+Cache Hit!
 @|com\bored\morefuelsmodlight\fuels\RedFlower.java|98|131|com.bored.morefuelsmodlight.fuels|package|com.bored.morefuelsmodlight.fuels|(file)
 Class Start: com.bored.morefuelsmodlight.fuels.RedFlower
    @|com\bored\morefuelsmodlight\fuels\RedFlower.java|302|311|RedFlower|class|com.bored.morefuelsmodlight.fuels.RedFlower
@@ -1526,6 +1576,7 @@ Class End  : com.bored.morefuelsmodlight.fuels.RedFlower
 endProcessing "com\bored\morefuelsmodlight\fuels\RedFlower.java"
 
 startProcessing "com\bored\morefuelsmodlight\fuels\RedstoneTorch.java" md5: 83dcb3b9f28cd57b34bf37894180cddd
+Cache Hit!
 @|com\bored\morefuelsmodlight\fuels\RedstoneTorch.java|57|90|com.bored.morefuelsmodlight.fuels|package|com.bored.morefuelsmodlight.fuels|(file)
 Class Start: com.bored.morefuelsmodlight.fuels.RedstoneTorch
    @|com\bored\morefuelsmodlight\fuels\RedstoneTorch.java|261|274|RedstoneTorch|class|com.bored.morefuelsmodlight.fuels.RedstoneTorch
@@ -1552,6 +1603,7 @@ Class End  : com.bored.morefuelsmodlight.fuels.RedstoneTorch
 endProcessing "com\bored\morefuelsmodlight\fuels\RedstoneTorch.java"
 
 startProcessing "com\bored\morefuelsmodlight\fuels\RottenFlesh.java" md5: ecc540efeff19a254cb96d72e803ab0a
+Cache Hit!
 @|com\bored\morefuelsmodlight\fuels\RottenFlesh.java|8|41|com.bored.morefuelsmodlight.fuels|package|com.bored.morefuelsmodlight.fuels|(file)
 Class Start: com.bored.morefuelsmodlight.fuels.RottenFlesh
    @|com\bored\morefuelsmodlight\fuels\RottenFlesh.java|179|190|RottenFlesh|class|com.bored.morefuelsmodlight.fuels.RottenFlesh
@@ -1570,6 +1622,7 @@ Class End  : com.bored.morefuelsmodlight.fuels.RottenFlesh
 endProcessing "com\bored\morefuelsmodlight\fuels\RottenFlesh.java"
 
 startProcessing "com\bored\morefuelsmodlight\fuels\Shield.java" md5: 05d5a2759d24efbc857c40115b411077
+Cache Hit!
 @|com\bored\morefuelsmodlight\fuels\Shield.java|8|41|com.bored.morefuelsmodlight.fuels|package|com.bored.morefuelsmodlight.fuels|(file)
 Class Start: com.bored.morefuelsmodlight.fuels.Shield
    @|com\bored\morefuelsmodlight\fuels\Shield.java|179|185|Shield|class|com.bored.morefuelsmodlight.fuels.Shield
@@ -1588,6 +1641,7 @@ Class End  : com.bored.morefuelsmodlight.fuels.Shield
 endProcessing "com\bored\morefuelsmodlight\fuels\Shield.java"
 
 startProcessing "com\bored\morefuelsmodlight\fuels\Sign.java" md5: 5a102fe94c371f96bf09940b8eb1f4e4
+Cache Hit!
 @|com\bored\morefuelsmodlight\fuels\Sign.java|8|41|com.bored.morefuelsmodlight.fuels|package|com.bored.morefuelsmodlight.fuels|(file)
 Class Start: com.bored.morefuelsmodlight.fuels.Sign
    @|com\bored\morefuelsmodlight\fuels\Sign.java|179|183|Sign|class|com.bored.morefuelsmodlight.fuels.Sign
@@ -1606,6 +1660,7 @@ Class End  : com.bored.morefuelsmodlight.fuels.Sign
 endProcessing "com\bored\morefuelsmodlight\fuels\Sign.java"
 
 startProcessing "com\bored\morefuelsmodlight\fuels\SpawnEgg.java" md5: 5de05f73f44a44ac441487559a1c75c7
+Cache Hit!
 @|com\bored\morefuelsmodlight\fuels\SpawnEgg.java|8|41|com.bored.morefuelsmodlight.fuels|package|com.bored.morefuelsmodlight.fuels|(file)
 Class Start: com.bored.morefuelsmodlight.fuels.SpawnEgg
    @|com\bored\morefuelsmodlight\fuels\SpawnEgg.java|179|187|SpawnEgg|class|com.bored.morefuelsmodlight.fuels.SpawnEgg
@@ -1624,6 +1679,7 @@ Class End  : com.bored.morefuelsmodlight.fuels.SpawnEgg
 endProcessing "com\bored\morefuelsmodlight\fuels\SpawnEgg.java"
 
 startProcessing "com\bored\morefuelsmodlight\fuels\SpiderEye.java" md5: 8c5f4a8714b72ce3abcdfc768ff729c9
+Cache Hit!
 @|com\bored\morefuelsmodlight\fuels\SpiderEye.java|8|41|com.bored.morefuelsmodlight.fuels|package|com.bored.morefuelsmodlight.fuels|(file)
 Class Start: com.bored.morefuelsmodlight.fuels.SpiderEye
    @|com\bored\morefuelsmodlight\fuels\SpiderEye.java|179|188|SpiderEye|class|com.bored.morefuelsmodlight.fuels.SpiderEye
@@ -1642,6 +1698,7 @@ Class End  : com.bored.morefuelsmodlight.fuels.SpiderEye
 endProcessing "com\bored\morefuelsmodlight\fuels\SpiderEye.java"
 
 startProcessing "com\bored\morefuelsmodlight\fuels\StickyPiston.java" md5: 34811e1453d01adfa454acaf6977450f
+Cache Hit!
 @|com\bored\morefuelsmodlight\fuels\StickyPiston.java|8|41|com.bored.morefuelsmodlight.fuels|package|com.bored.morefuelsmodlight.fuels|(file)
 Class Start: com.bored.morefuelsmodlight.fuels.StickyPiston
    @|com\bored\morefuelsmodlight\fuels\StickyPiston.java|212|224|StickyPiston|class|com.bored.morefuelsmodlight.fuels.StickyPiston
@@ -1662,6 +1719,7 @@ Class End  : com.bored.morefuelsmodlight.fuels.StickyPiston
 endProcessing "com\bored\morefuelsmodlight\fuels\StickyPiston.java"
 
 startProcessing "com\bored\morefuelsmodlight\fuels\Sugarcane.java" md5: d3dec145fa3915db2b1c9a49fee1ae13
+Cache Hit!
 @|com\bored\morefuelsmodlight\fuels\Sugarcane.java|8|41|com.bored.morefuelsmodlight.fuels|package|com.bored.morefuelsmodlight.fuels|(file)
 Class Start: com.bored.morefuelsmodlight.fuels.Sugarcane
    @|com\bored\morefuelsmodlight\fuels\Sugarcane.java|179|188|Sugarcane|class|com.bored.morefuelsmodlight.fuels.Sugarcane
@@ -1680,6 +1738,7 @@ Class End  : com.bored.morefuelsmodlight.fuels.Sugarcane
 endProcessing "com\bored\morefuelsmodlight\fuels\Sugarcane.java"
 
 startProcessing "com\bored\morefuelsmodlight\fuels\TNT.java" md5: cc895d5c68b440dbfb0e05112ed36dee
+Cache Hit!
 @|com\bored\morefuelsmodlight\fuels\TNT.java|8|41|com.bored.morefuelsmodlight.fuels|package|com.bored.morefuelsmodlight.fuels|(file)
 Class Start: com.bored.morefuelsmodlight.fuels.TNT
    @|com\bored\morefuelsmodlight\fuels\TNT.java|212|215|TNT|class|com.bored.morefuelsmodlight.fuels.TNT
@@ -1700,6 +1759,7 @@ Class End  : com.bored.morefuelsmodlight.fuels.TNT
 endProcessing "com\bored\morefuelsmodlight\fuels\TNT.java"
 
 startProcessing "com\bored\morefuelsmodlight\fuels\TNTMinecart.java" md5: ae57ff3fde84d03994f9bfc5e9996273
+Cache Hit!
 @|com\bored\morefuelsmodlight\fuels\TNTMinecart.java|8|41|com.bored.morefuelsmodlight.fuels|package|com.bored.morefuelsmodlight.fuels|(file)
 Class Start: com.bored.morefuelsmodlight.fuels.TNTMinecart
    @|com\bored\morefuelsmodlight\fuels\TNTMinecart.java|179|190|TNTMinecart|class|com.bored.morefuelsmodlight.fuels.TNTMinecart
@@ -1718,6 +1778,7 @@ Class End  : com.bored.morefuelsmodlight.fuels.TNTMinecart
 endProcessing "com\bored\morefuelsmodlight\fuels\TNTMinecart.java"
 
 startProcessing "com\bored\morefuelsmodlight\fuels\Torch.java" md5: 94aacdc9d6007de233c545d2bd8e47a9
+Cache Hit!
 @|com\bored\morefuelsmodlight\fuels\Torch.java|8|41|com.bored.morefuelsmodlight.fuels|package|com.bored.morefuelsmodlight.fuels|(file)
 Class Start: com.bored.morefuelsmodlight.fuels.Torch
    @|com\bored\morefuelsmodlight\fuels\Torch.java|212|217|Torch|class|com.bored.morefuelsmodlight.fuels.Torch
@@ -1738,6 +1799,7 @@ Class End  : com.bored.morefuelsmodlight.fuels.Torch
 endProcessing "com\bored\morefuelsmodlight\fuels\Torch.java"
 
 startProcessing "com\bored\morefuelsmodlight\fuels\TripwireHook.java" md5: 58a4ffe4525a47f38a49c11ddb567abf
+Cache Hit!
 @|com\bored\morefuelsmodlight\fuels\TripwireHook.java|8|41|com.bored.morefuelsmodlight.fuels|package|com.bored.morefuelsmodlight.fuels|(file)
 Class Start: com.bored.morefuelsmodlight.fuels.TripwireHook
    @|com\bored\morefuelsmodlight\fuels\TripwireHook.java|212|224|TripwireHook|class|com.bored.morefuelsmodlight.fuels.TripwireHook
@@ -1758,6 +1820,7 @@ Class End  : com.bored.morefuelsmodlight.fuels.TripwireHook
 endProcessing "com\bored\morefuelsmodlight\fuels\TripwireHook.java"
 
 startProcessing "com\bored\morefuelsmodlight\fuels\Vine.java" md5: 8d18c9a7d5a7675bba9ae110ebd0f9eb
+Cache Hit!
 @|com\bored\morefuelsmodlight\fuels\Vine.java|8|41|com.bored.morefuelsmodlight.fuels|package|com.bored.morefuelsmodlight.fuels|(file)
 Class Start: com.bored.morefuelsmodlight.fuels.Vine
    @|com\bored\morefuelsmodlight\fuels\Vine.java|212|216|Vine|class|com.bored.morefuelsmodlight.fuels.Vine
@@ -1778,6 +1841,7 @@ Class End  : com.bored.morefuelsmodlight.fuels.Vine
 endProcessing "com\bored\morefuelsmodlight\fuels\Vine.java"
 
 startProcessing "com\bored\morefuelsmodlight\fuels\WaterLily.java" md5: bed95f964d90e10cf2e1b81c78fdc167
+Cache Hit!
 @|com\bored\morefuelsmodlight\fuels\WaterLily.java|8|41|com.bored.morefuelsmodlight.fuels|package|com.bored.morefuelsmodlight.fuels|(file)
 Class Start: com.bored.morefuelsmodlight.fuels.WaterLily
    @|com\bored\morefuelsmodlight\fuels\WaterLily.java|212|221|WaterLily|class|com.bored.morefuelsmodlight.fuels.WaterLily
@@ -1798,6 +1862,7 @@ Class End  : com.bored.morefuelsmodlight.fuels.WaterLily
 endProcessing "com\bored\morefuelsmodlight\fuels\WaterLily.java"
 
 startProcessing "com\bored\morefuelsmodlight\fuels\Web.java" md5: 3dc23773ede43fb3d0946ac80bac9c4c
+Cache Hit!
 @|com\bored\morefuelsmodlight\fuels\Web.java|8|41|com.bored.morefuelsmodlight.fuels|package|com.bored.morefuelsmodlight.fuels|(file)
 Class Start: com.bored.morefuelsmodlight.fuels.Web
    @|com\bored\morefuelsmodlight\fuels\Web.java|212|215|Web|class|com.bored.morefuelsmodlight.fuels.Web
@@ -1818,6 +1883,7 @@ Class End  : com.bored.morefuelsmodlight.fuels.Web
 endProcessing "com\bored\morefuelsmodlight\fuels\Web.java"
 
 startProcessing "com\bored\morefuelsmodlight\fuels\Wheat.java" md5: e5e4b1e5b1760cb01433ee915f9237a3
+Cache Hit!
 @|com\bored\morefuelsmodlight\fuels\Wheat.java|8|41|com.bored.morefuelsmodlight.fuels|package|com.bored.morefuelsmodlight.fuels|(file)
 Class Start: com.bored.morefuelsmodlight.fuels.Wheat
    @|com\bored\morefuelsmodlight\fuels\Wheat.java|179|184|Wheat|class|com.bored.morefuelsmodlight.fuels.Wheat
@@ -1836,6 +1902,7 @@ Class End  : com.bored.morefuelsmodlight.fuels.Wheat
 endProcessing "com\bored\morefuelsmodlight\fuels\Wheat.java"
 
 startProcessing "com\bored\morefuelsmodlight\fuels\WheatSeeds.java" md5: 2faae60b54833bbbdfe7ff31bc540a08
+Cache Hit!
 @|com\bored\morefuelsmodlight\fuels\WheatSeeds.java|8|41|com.bored.morefuelsmodlight.fuels|package|com.bored.morefuelsmodlight.fuels|(file)
 Class Start: com.bored.morefuelsmodlight.fuels.WheatSeeds
    @|com\bored\morefuelsmodlight\fuels\WheatSeeds.java|179|189|WheatSeeds|class|com.bored.morefuelsmodlight.fuels.WheatSeeds
@@ -1854,6 +1921,7 @@ Class End  : com.bored.morefuelsmodlight.fuels.WheatSeeds
 endProcessing "com\bored\morefuelsmodlight\fuels\WheatSeeds.java"
 
 startProcessing "com\bored\morefuelsmodlight\fuels\WoodenButton.java" md5: 182576c835cb1fa85a8cee47b395b2d6
+Cache Hit!
 @|com\bored\morefuelsmodlight\fuels\WoodenButton.java|8|41|com.bored.morefuelsmodlight.fuels|package|com.bored.morefuelsmodlight.fuels|(file)
 Class Start: com.bored.morefuelsmodlight.fuels.WoodenButton
    @|com\bored\morefuelsmodlight\fuels\WoodenButton.java|212|224|WoodenButton|class|com.bored.morefuelsmodlight.fuels.WoodenButton
@@ -1874,6 +1942,7 @@ Class End  : com.bored.morefuelsmodlight.fuels.WoodenButton
 endProcessing "com\bored\morefuelsmodlight\fuels\WoodenButton.java"
 
 startProcessing "com\bored\morefuelsmodlight\fuels\Wool.java" md5: d15ba996d0f5d3d4aba355a0f828cfe1
+Cache Hit!
 @|com\bored\morefuelsmodlight\fuels\Wool.java|8|41|com.bored.morefuelsmodlight.fuels|package|com.bored.morefuelsmodlight.fuels|(file)
 Class Start: com.bored.morefuelsmodlight.fuels.Wool
    @|com\bored\morefuelsmodlight\fuels\Wool.java|212|216|Wool|class|com.bored.morefuelsmodlight.fuels.Wool
@@ -1894,6 +1963,7 @@ Class End  : com.bored.morefuelsmodlight.fuels.Wool
 endProcessing "com\bored\morefuelsmodlight\fuels\Wool.java"
 
 startProcessing "com\bored\morefuelsmodlight\fuels\WritableBook.java" md5: 5f131e583262f65ceb3271c76ed945b7
+Cache Hit!
 @|com\bored\morefuelsmodlight\fuels\WritableBook.java|8|41|com.bored.morefuelsmodlight.fuels|package|com.bored.morefuelsmodlight.fuels|(file)
 Class Start: com.bored.morefuelsmodlight.fuels.WritableBook
    @|com\bored\morefuelsmodlight\fuels\WritableBook.java|179|191|WritableBook|class|com.bored.morefuelsmodlight.fuels.WritableBook
@@ -1912,6 +1982,7 @@ Class End  : com.bored.morefuelsmodlight.fuels.WritableBook
 endProcessing "com\bored\morefuelsmodlight\fuels\WritableBook.java"
 
 startProcessing "com\bored\morefuelsmodlight\fuels\WrittenBook.java" md5: efbefd4dcedc04223eadbb08c5c982b3
+Cache Hit!
 @|com\bored\morefuelsmodlight\fuels\WrittenBook.java|8|41|com.bored.morefuelsmodlight.fuels|package|com.bored.morefuelsmodlight.fuels|(file)
 Class Start: com.bored.morefuelsmodlight.fuels.WrittenBook
    @|com\bored\morefuelsmodlight\fuels\WrittenBook.java|179|190|WrittenBook|class|com.bored.morefuelsmodlight.fuels.WrittenBook
@@ -1930,6 +2001,7 @@ Class End  : com.bored.morefuelsmodlight.fuels.WrittenBook
 endProcessing "com\bored\morefuelsmodlight\fuels\WrittenBook.java"
 
 startProcessing "com\bored\morefuelsmodlight\fuels\YellowFlower.java" md5: 95b76cfca7b3205ce3186d7a06460fb3
+Cache Hit!
 @|com\bored\morefuelsmodlight\fuels\YellowFlower.java|103|136|com.bored.morefuelsmodlight.fuels|package|com.bored.morefuelsmodlight.fuels|(file)
 Class Start: com.bored.morefuelsmodlight.fuels.YellowFlower
    @|com\bored\morefuelsmodlight\fuels\YellowFlower.java|307|319|YellowFlower|class|com.bored.morefuelsmodlight.fuels.YellowFlower
