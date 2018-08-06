@@ -9,7 +9,7 @@ import cpw.mods.fml.common.event.FMLInitializationEvent;
 import cpw.mods.fml.common.event.FMLPreInitializationEvent;
 import cpw.mods.fml.common.registry.GameRegistry;
 
-@Mod(modid = Main.MODID, version = Main.VERSION, name = Main.MODNAME, acceptedMinecraftVersions = "[1.6.1, 1.6.2, 1.6.3, 1.6.4]")
+@Mod(modid = Main.MODID, version = Main.VERSION, name = Main.MODNAME, acceptedMinecraftVersions = "[1.6.1,1.6.4]")
 public class Main
 {
     public static final String MODID = "morefuelsmodlight";
