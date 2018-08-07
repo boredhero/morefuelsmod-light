@@ -3,7 +3,7 @@
   "modid": "morefuelsmodlight",
   "name": "§3§lMore Fuels Mod Light",
   "description": "§b§oA mod that makes more items usable as fuel.",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "mcversion": "${mcversion}",
   "url": "",
   "updateUrl": "",
